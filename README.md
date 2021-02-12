@@ -2,7 +2,7 @@
 
 I'm Germaine, a Fullstack Software Engineer, who loves to build things. I specialize in Full-Stack Javascript (MEAN, MERN, any JAMstack).
 I've been coding for about 3 years and I'm current attending Lambda School's Software Engineering program.
-I live a makers lifestyle; "why buy what you can build"; is my mantra.
+I live a maker's lifestyle; "why buy what you can build"; is my mantra.
 If you would like to talk about building things and web development you can find me on [Twitter](https://twitter.com/G_as_in_Genius)
 or send my an email at me@germainep.com.
 
