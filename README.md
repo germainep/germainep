@@ -4,7 +4,7 @@ I'm Germaine, a Fullstack Software Engineer, who loves to build things. I specia
 I've been coding for about 3 years and I'm current attending Lambda School's Software Engineering program.
 I live a maker's lifestyle; "why buy what you can build"; is my mantra.
 If you would like to talk about building things and web development you can find me on [Twitter](https://twitter.com/G_as_in_Genius)
-or send my an email at me@germainep.com.
+or send me an email at me@germainep.com.
 
 <!--
 **germainep/germainep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
